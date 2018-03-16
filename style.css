@@ -1,0 +1,54 @@
+
+.wrapper {
+  width: 60%;
+  height: 650px;
+  border-radius: 1%;
+  border: solid black 3px;
+  margin: 0 auto ;
+}
+
+.circle-x {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #F55A3B;
+  text-align: center;
+  color: #FFFEFD;
+  font-size: 40px;
+  font-family: monospace;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-left: 380px;
+  position: relative;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: solid #F35A3B 5px;
+  background-color: #D8D8D8;
+  margin-left: 330px;
+}
+
+p {
+  color: #CEDCED;
+  text-align: center;
+}
+
+/* .middle {
+  margin: 0 auto ;
+} */
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: monospace;
+  letter-spacing: 4px;
+  font-size: 48px;
+}
+
+footer {
+  text-align: center;
+  color: #F35A3B;
+}
